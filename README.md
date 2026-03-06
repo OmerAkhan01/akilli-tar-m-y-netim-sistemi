@@ -1,2 +1,2 @@
-# akilli-tar-m-y-netim-sistemi
+# akilli-tarim-yonetim-sistemi
 Algoritma Alimleri- Akıllı Tarım Projesi
