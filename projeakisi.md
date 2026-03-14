@@ -62,7 +62,7 @@ Yazılımın geliştirilme ve canlıya alınma süreçlerinde karşılaşılabil
 •	Çözüm Stratejisi: Yazılım tarafında anomali tespiti (anomaly detection) algoritmaları kurularak, mantık dışı değerler okunduğunda sistemin otomatik sulamayı durdurması ve kullanıcıya "Sensör Arızası Şüphesi" bildirimi göndermesi.
 •	Veri Gizliliği ve Güvenliği (Kısıt): Toplanan tarımsal verilerin ve sisteme kayıtlı kullanıcı bilgilerinin yetkisiz erişime karşı korunması zorunluluğu.
 •	Çözüm Stratejisi: Veritabanı (PostgreSQL) bağlantılarında ve API haberleşmelerinde uçtan uca şifreleme kullanılması, kullanıcı yetkilendirme adımlarının (Role-Based Access Control) eksiksiz uygulanması.
-=======
+
 Selahattin Ali Kılıç:
 1. Projenin Amacı 
 Akıllı tarım sistemleri sensörlerden elde edilen çevresel verileri analiz ederek tarımsal üretim 
